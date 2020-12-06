@@ -1,6 +1,6 @@
 ### Hi there, I am FALEX <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://www.linkedin.com/in/falexsoj">
+<a href="https://www.linkedin.com/in/falex-soj-920a54179">
   <img align="left" alt="Falex's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/falex55">
