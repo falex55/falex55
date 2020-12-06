@@ -6,12 +6,12 @@
 <a href="https://github.com/falex55">
   <img align="left" alt="Falex's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<br />
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ML Model Development and Deployment, Data Analysis, Web Scraping, Deep Learning
+- 🌱 I’m Data Science Learner
 
-<br />
+<br/>
 
 [![Falex's github stats](https://github-readme-stats.vercel.app/api?username=falex55&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/falex55/github-readme-stats)
 
