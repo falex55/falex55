@@ -7,6 +7,8 @@
   <img align="left" alt="Sayar's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
+<br />
+
 <!--
 **falex55/falex55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
