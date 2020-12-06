@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Falex's github stats](https://github-readme-stats.vercel.app/api?username=falex55&count_private=true&show_icons=true&theme=highcontrast&hide_rank=false)](https://github.com/falex55/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falex55)](https://github.com/falex55/github-readme-stats)
+[![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=falex55)](https://github.com/falex55/github-readme-stats)
