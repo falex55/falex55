@@ -7,7 +7,6 @@
   <img align="left" alt="Falex's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<br />
 
 ## Data Science Enthusiast | Tableau Developer | Python Programmer
 
@@ -15,6 +14,7 @@
 - 🌱 I’m Data Science Learner
 
 [![Falex's github stats](https://github-readme-stats.vercel.app/api?username=falex55&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/falex55/github-readme-stats)
+
 <br />
 
 [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=falex55)](https://github.com/falex55/github-readme-stats)
