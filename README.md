@@ -11,7 +11,7 @@
 ## Data Science Enthusiast | Tableau Developer | Python Programmer
 
 - 🌱 I’m Data Science Learner
-- 🔭 I’m currently working on ML Model Development and Deployment, Data Analysis, Web Scraping, Deep Learning
+- 🔭 Currently working on ML Model Development and Deployment, Data Analysis, Web Scraping, Deep Learning
 <br />
 <!--
 ### Technologies Worked on :
