@@ -8,7 +8,7 @@
 </a>
 <br />
 
-## Data Science Enthusiast | Tableau Developer | Python Programmer
+## Data Science Enthusiast | Machine Learning | Python Programmer
 
 - 🌱 I’m Data Science Learner
 - 🔭 Currently working on ML Model Development and Deployment, Data Analysis, Web Scraping, Deep Learning
